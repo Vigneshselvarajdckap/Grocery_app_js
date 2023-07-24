@@ -1,0 +1,79 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+i.fas.fa-edit {
+  margin-left: 160px;
+}
+
+form#form {
+  margin-left: 50px;
+}
+
+.main {
+  margin-left: 37%;
+  margin-top: 140px;
+  background-color: aqua;
+  width: 350px;
+  height: 400px;
+}
+
+h3 {
+  margin-left: 90px;
+}
+
+.active{
+  display: block;
+}
+
+body{
+  background-color: aliceblue;
+}
+
+input#input {
+  height: 40px;
+  padding-left: 13px;
+  margin-top: 30px;
+}
+
+button.clear-btn {
+  margin-left: 141px;
+  border: 0;
+  background-color: transparent;
+  color: red;
+}
+
+button.btn {
+  height: 40px;
+  width: 60px;
+  background-color: transparent;
+  border: 1px solid gray;
+  font-weight: bold;
+}
+
+button.btn:hover{
+  background-color: #fff;
+  color: aqua;
+  font-weight: bold;
+}
+
+.add {
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+
+span {
+  position: relative;
+  bottom: 16px;
+  left: 65px;
+}
+
+p.alert {
+  width: 250px;
+  padding-left: 70px;
+}
+
